@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Header{
+
+    background-color: rgb(112, 113, 122);
+    
+    margin-bottom: 1px;
+    padding-top: 2cm;
+    height: 200px;
+    
+}
+
+
+
+.Nav{
+    font-size: larger;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 2cm;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+
+
+}
+
+
+
+.logo{
+    align-content: flex-start;
+    height: 4cm;
+    width: 4cm;
+    margin-left: 15cm;
+    align-content: center;
+    background-color: rgb(255, 0, 0);
+    display: grid
+    
+    
+}
+
+
+body{
+    background-color: rgb(6, 34, 66);
+    color: white;
+    font-size: 20px;
+    height: 300px;
+    display: grid;
+    
+}
+.Equipos {
+    font: bolder;
+    font-size: larger;
+    font: italic;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    margin-top: 400px;
+    height:15em;
+   
+    
+}
+
+.mapa{  
+    align-content: flex-start;
+    display: grid;
+    background-color: aqua;
+    
+}
+
+#team {
+    background-color:red;
+    height:auto;
+    display: grid;
+    
+}
+
+
+.formulario {   
+    width: min-content;
+    color:red;
+}
+
+#youtube{
+    padding-left: 750px;
+    padding-top: 100px;
+    font-style: italic;
+
+}
+
+.lore  {
+    margin-top: 10ch;
+    display: grid;
+    justify-content: left;
+    margin-right: 350px;
+    justify-content: center;
+    box-sizing: border-box;
+    font-weight: bold;
+    
+}
+
+
+
+#league{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+#lol {
+    height: 100px;
+}
+
+#fifa {
+    height: 100px;
+    padding-left:100px;
+
+}
+
+.fifa2{
+    padding-left:65px;
+    
+}
+
+
+#rocket {
+    height: 100px;
+    padding-left: 80px;}
+
+.rocket2 {
+    padding-left: 95px;
+}
+
+
+#valorant {
+    height: 100px;
+    padding-left: 85px;
+}
+
+.valo{
+    padding-left: 70px;
+}
+
+
+#hearth 
+{
+    height: 100px;
+    padding-left: 100px;
+}
+
+.hearth2{
+
+    padding-left: 110px;
+}
+
+#shop {
+    height: 50px;
+    padding-left: 25px;
+}
