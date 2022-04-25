@@ -162,3 +162,20 @@ footer {
     height: 50px;
     padding-left: 25px;
 }
+
+.Nav :hover {
+    background-color: red;
+    transition: 1s;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+}
+.Header :hover{
+    background-color: rgb(238, 238, 238);
+    transition: 1s;
+}
+
+#league :hover{
+    color:red;
+    transition: 2s;
+    height: 150px;
+}
